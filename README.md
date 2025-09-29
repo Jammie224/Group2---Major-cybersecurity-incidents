@@ -1,2 +1,7 @@
-# Group2---Major-cybersecurity-incidents
-We want to talk about "Major cybersecurity incidents"
+# Topic:#
+### Team Members : ###
+   - Judy Nguyen (Student ID: 152296208)
+   - Jammie Chen (Student ID: 140092248)
+   - Saad Mdawar (student ID : 118715259)
+   - Timur Zhaken (Student ID : 140314246)
+
