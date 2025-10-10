@@ -26,21 +26,19 @@ WannaCry spread automatically and rapidly across networks without user interacti
 
 **WannaCry** caused global disruption within hours.
 
-Impact highlights:
-
 Over **230,000** computers in 150+ countries were infected.
 
 Major organizations affected included:
 
-UK’s National Health Service (NHS) — hospitals were forced to cancel appointments and divert emergency patients.
+- UK’s National Health Service (NHS) — hospitals were forced to cancel appointments and divert emergency patients.
 
-FedEx, Renault, Telefonica, Nissan, and Deutsche Bahn were also hit.
+- FedEx, Renault, Telefonica, Nissan, and Deutsche Bahn were also hit.
 
-Estimated damages: hundreds of millions to billions of dollars in lost productivity and recovery costs.
+Estimated damages: **hundreds of millions to billions of dollars** in lost productivity and recovery costs.
 
 ### How It Was Stopped / Reversed
 
-Kill Switch Activation:
+**Kill Switch Activation:**
 
 A cybersecurity researcher known online as MalwareTech discovered that WannaCry connected to an unregistered domain name during its operation.
 
@@ -48,15 +46,14 @@ He registered that domain, which unintentionally triggered a built-in “kill sw
 
 This halted the original WannaCry outbreak almost immediately.
 
-Patching Systems:
+**Patching Systems:**
 
 Microsoft released emergency security patches (including for unsupported systems like Windows XP) to close the EternalBlue vulnerability (MS17-010).
 
 Organizations that applied these patches became immune to the attack vector.
 
-Decryption Tools (Limited Help):
+**Decryption Tools (Limited Help):**
 
 Some decryption tools were later created (like WannaKey and WannaKiwi) that could recover keys only if the infected computer wasn’t rebooted.
 
 But for most victims, recovery required restoring from backups.
-
