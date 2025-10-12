@@ -15,7 +15,13 @@ This attack caused global disruption within hours. Over 230,000 computers in ove
 So how was this resolved? A cybersecurity researcher who went by the name MalwareTech unintentionally triggered a built-in “kill switch” of the malware by registering an unregistered domain that WannaCry was connected to at the time. This halted the initial WannaCry outbreak almost immediately. Microsoft also released emergency security patches, which patched the EternalBlue vulnerability, and decryption tools like WannaKey and WannaKiwi that were later created. So all was well – except for the billions of dollars lost...
 
 ## Equifax
-Moving on! Next, we have the Equifax data breach.
+Moving on! Next, we have the Equifax data breach. In September 2017, Equifax, one of the three major credit reporting agencies in the U.S., announced that sensitive personal data, which included names, social security numbers, birth dates, addresses, driver’s license numbers, and credit card numbers, of approximately 163.2 million Americans, UK citizens, and Canadians had been compromised.
+
+Hackers exploited a vulnerability in the Apache Struts framework to access the agency’s online dispute portal without needing any authorization. They then pivoted to other servers within the network and gained access to even more information from there. The hackers were active in the system for 76 days (from May - July 2017), performing over 9,000 data scans and exfiltrating information in batches to avoid detection.
+
+In February 2020, four were charged with involvement with the breach, and these hackers were members of the 54th Research Institute, which was a part of the Chinese armed forces. Other legal consequences include class-action settlements, where Equifax agreed to pay at least $380.5 million to settle lawsuits from affected consumers, and federal and state penalties.
+
+How Equifax handled this was criticized because, first of all, they delayed announcing the breach by 2 months, and then they created a site for consumers to check if they were affected – sounds promising – but the site itself had security flaws. So following this incident, the CEO, CIO, and CSO of the agency resigned.
 
 ## Final remarks
 Now, to end this presentation, I would like to leave you with something I myself wondered when learning about these incidents:
