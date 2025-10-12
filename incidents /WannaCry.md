@@ -10,7 +10,7 @@
 
 - File extensions were changed to .WNCRY, .WNCRYT, or .WNCRY!, and a red ransom screen appeared.
 
-**INSERT IMAGE HERE**
+[WannaCry](incidents/WannaCry.png)
 
 ### How It Spread
 
