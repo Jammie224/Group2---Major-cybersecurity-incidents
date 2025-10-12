@@ -1,25 +1,25 @@
-# *Major Cybersecurity Incidents* VO Script (4:10 min)
+# *Major Cybersecurity Incidents* VO Script (4 min)
 
 ## Introduction
 Hello everyone! We are Judy, Jammie, Timur and Saad, and welcome to group 2's presentation on Major Cybersecurity Incidents! Whoop whoop!
 
-*[With a flair of drama for interest]* I will be your host for today and we will be taking you through our findings on two major incidents related to breaches in cybersecurity: the WannaCry ransomware attack, and the Equifax data breach incident. We will be focusing on what happened, how they spread, their impact, and what was done about it.
+I will be your host for today and we will be taking you through our findings on two major incidents related to breaches in cybersecurity: the WannaCry ransomware attack, and the Equifax data breach incident. We will be focusing on what happened, how they spread, their impact, and what was done about it.
 
 ## WannaCry
 First, we have the WannaCry incident. WannaCry was a ransomware attack launched in May 2017. It encrypted files on infected computers and made them inaccessible. File extensions were changed, and this was the ransom note that would appear if someone tried to open one of the encrypted files. ***[INSERT PICTURE OF RED RANSOM NOTE]*** They would demand Bitcoin payment worth somewhere between $300-600 to decrypt their files.
 
-WannaCry used a Windows exploit called EternalBlue, which allowed hackers to target a flaw in the Server Message Block protocol in Windows. Once a computer was infected, it scanned nearby systems on the same network, or over the internet and infected those automatically, making it spread rapidly without any user interaction.
+WannaCry used a Windows exploit called EternalBlue, which allowed hackers to target a flaw in the Server Message Block protocol in Windows. Once a computer was infected, it scanned nearby systems on the same network or over the internet and infected those automatically, making it spread rapidly without any user interaction.
 
 This attack caused global disruption within hours. Over 230,000 computers in over 150 countries were infected. Major organizations like the UK’s National Health Service, FedEx, Renault, Telefonica, Nissan, and Deutsche Bahn also fell victim. In the end, it cost an estimation of hundreds of millions to billions of dollars in lost productivity and recovery.
 
 So how was this resolved? A cybersecurity researcher who went by the name MalwareTech unintentionally triggered a built-in “kill switch” of the malware by registering an unregistered domain that WannaCry was connected to at the time. This halted the initial outbreak almost immediately. Microsoft also released emergency security patches, and decryption tools like WannaKey and WannaKiwi were later created. So all was well – except for the billions of dollars lost...
 
 ## Equifax
-Moving on! Next, we have the Equifax data breach. In September 2017, Equifax, a major credit reporting agency in the U.S., announced that sensitive personal data, which included names, social security numbers, birth dates, addresses, driver’s license numbers, and credit card numbers, of approximately 163.2 million Americans, Canadians, and UK citizens had been compromised.
+Moving on! Next, we have the Equifax data breach. In September 2017, Equifax, a major credit reporting agency in the U.S., announced that sensitive personal data ***[INCLUDE SPECIFIC EXAMPLES ON SCREEN: names, social security numbers, birth dates, addresses, driver’s license numbers, and credit card numbers]*** of approximately 163.2 million Americans, Canadians, and UK citizens had been compromised.
 
 Hackers exploited a vulnerability in the Apache Struts framework to access the agency’s online dispute portal without needing any authorization. The hackers were active in the system for 76 days (from May - July 2017), performing over 9,000 data scans and exfiltrating information in batches to avoid detection.
 
-In February 2020, four were charged with involvement with the breach, and these hackers were members of the 54th Research Institute, which was a part of the Chinese armed forces. Other legal consequences include class-action settlements, and federal and state penalties.
+In February 2020, four were charged with involvement in the breach, and these hackers were members of the Chinese armed forces. Other legal consequences include class-action settlements, and federal and state penalties.
 
 How Equifax handled this situation was criticized because, first of all, they delayed announcing the breach by 2 months, and then they created a site for consumers to check if they were affected – which sounds promising – but the site itself had security flaws. So following this incident, the CEO, CIO, and CSO of the agency resigned.
 
