@@ -14,3 +14,9 @@ This project examines major cybersecurity incidents—how they worked, how they 
 
 ## Final Question
 If you’ve noticed, both incidents occurred around the same time (that is, 2017). Don’t you think that’s interesting? Why do you think that might have been? Maybe some sort of socio-political circumstances at the time might have come into play? Or was it just mere coincidence?
+
+## Contributions
+- WannaCry incident research: Timur Zhaken
+- Equifax Data Breach incident research: Jammie Chen
+- Audio Production/Narrator: Judy Nguyen
+- Video Production: Jammie Chen
