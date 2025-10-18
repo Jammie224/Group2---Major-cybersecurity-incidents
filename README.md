@@ -10,6 +10,7 @@ This project examines major cybersecurity incidents—how they worked, how they 
 
 
 ## Link to YouTube video
+[CEP- Group2---Major-cybersecurity-incidents](https://youtu.be/GZsFQ6I-Gfc)
 
 ## Final Question
 If you’ve noticed, both incidents occurred around the same time (that is, 2017). Don’t you think that’s interesting? Why do you think that might have been? Maybe some sort of socio-political circumstances at the time might have come into play? Or was it just mere coincidence?
