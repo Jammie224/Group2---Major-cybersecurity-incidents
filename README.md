@@ -6,7 +6,7 @@
    - Timur Zhaken (Student ID : 140314246)
 
 ## Topic summary
-Our project examines major cybersecurity incidents—how they worked, how they spread, the damage they caused, and how they were contained. It highlights the 2017 Equifax breach, where an Apache Struts flaw enabled months-long access and exposed personal data (names, Social Security numbers, birth dates, addresses, driver’s licenses, and some credit cards), and the WannaCry ransomware worm, which exploited EternalBlue to race across networks and disrupt critical services worldwide. The key insights are well-defined : patch and track assets quickly, segment networks and monitor continuously, maintain reliable backups and practice restores, and communicate incidents openly and promptly. 
+This project examines major cybersecurity incidents — *what* they did, *how* they spread, the *damage* they caused, and how they were *resolved*. Two case studies are presented: the 2017 Equifax breach, where an Apache Struts flaw enabled months-long access and exposed personal data (names, Social Security numbers, birth dates, addresses, driver’s licenses, and some credit cards), and the WannaCry ransomware worm, which exploited EternalBlue to race across networks and disrupt critical services worldwide. The takeaways from these incidents include: patch and track assets quickly, segment networks and monitor continuously, maintain reliable backups and practice restores, and communicate incidents openly and promptly.
 
 
 ## Link to YouTube video
